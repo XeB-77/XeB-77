@@ -20,23 +20,25 @@
 > Connected! Welcome to the matrix. 🔓                     
 ```
 
-<div align="right"> 
-  <img height="25%" width="15%" src="https://github.com/user-attachments/assets/85044cdc-61a8-4bf2-a11b-32e61c1aa152"  />
+<div display="flex"> 
+  <img height="25%" width="100" src="https://github.com/user-attachments/assets/85044cdc-61a8-4bf2-a11b-32e61c1aa152"  />
 </div>
 
 -->My Arsenal*
 
 > ⚔️ Skills: 
-  - Linux Master 🧙‍♂️
+  - Linux Master 🧙‍♂️                            
   - CLI Scripting Expert 🔧
   - Arch Linux Pro 🚀
   - Hyprland Customizations 🌌
+
 
 > 🔥 Tools:
   - Nmap 🕵️‍♂️
   - Wireshark 📡
   - Metasploit 🚀
   - Python, Bash 🐍
+
 
 ## 📊 **GitHub Stats**
 
