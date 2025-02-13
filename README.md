@@ -1,6 +1,6 @@
-<div align="center" >
-  <img height="40%" width="50%" src="https://github.com/user-attachments/assets/9e2494d6-658d-4f48-a452-615d6233dff4"  />
- </div>
+<div align="center"> 
+  <img height="35%" width="35%" src="https://github.com/user-attachments/assets/946becc4-5fc3-4328-9ac2-20162e3e69b6"  />
+</div>
 
 ```
 ██╗  ██╗███████╗██████╗    ███████╗███████╗
@@ -42,6 +42,4 @@
 </p>
 
 ---
-
-
 <img height="120" alt="Welcome To my Profile !!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
