@@ -20,6 +20,10 @@
 > Connected! Welcome to the matrix. 🔓                     
 ```
 
+<div align="right"> 
+  <img height="25%" width="15%" src="https://github.com/user-attachments/assets/85044cdc-61a8-4bf2-a11b-32e61c1aa152"  />
+</div>
+
 -->My Arsenal*
 
 > ⚔️ Skills: 
