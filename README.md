@@ -1,5 +1,5 @@
 <div align="center" >
-  <img height="auto" width="100%" src="https://github.com/user-attachments/assets/e760b4c2-f2d9-4661-98cd-0503b561adfe"  />
+  <img height="auto" width="100%" src="https://github.com/user-attachments/assets/9e2494d6-658d-4f48-a452-615d6233dff4"  />
  </div>
 
 ```
@@ -14,14 +14,11 @@
 
 # 👾 **Unauthorized Access Detected** 👾  
 
-```bash
-> Initializing backdoor...  
+```bash                                                      
+> Initializing backdoor...                                    
 > Establishing connection...  
-> Connected! Welcome to the matrix. 🔓
+> Connected! Welcome to the matrix. 🔓                     
 ```
-
-
-
 
 -->My Arsenal*
 
